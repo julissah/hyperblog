@@ -12,5 +12,10 @@ p
 
 a
 {
-    color: darkred;
+    color:hotpink;
+}
+button 
+{
+    color: palevioletred;
+    background-color: teal;
 }
